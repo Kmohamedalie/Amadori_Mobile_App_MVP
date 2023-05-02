@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "OpenSans-Light_wgt300";
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Light.ttf")  format("truetype");
+   font-weight : 300;
+ 
+}
+@font-face {
+  font-family: "OpenSans-Semibold_wgt600";
+  src: url("../fonts/OpenSans-Semibold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Semibold.ttf")  format("truetype");
+   font-weight : 600;
+ 
+}
+@font-face {
+  font-family: "OpenSans-Regular_wgt400";
+  src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Regular.ttf")  format("truetype");
+   font-weight : 400;
+ 
+}
+@font-face {
+  font-family: "OpenSans-Bold_wgt700";
+  src: url("../fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Bold.ttf")  format("truetype");
+   font-weight : 700;
+ 
+}
